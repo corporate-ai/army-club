@@ -1,8 +1,8 @@
 {
   "routes": {
-    "/": {},
-    "/contact": {},
-    "/home": {},
-    "/welcome": {}
+    "/army-club": {},
+    "/army-club/contact": {},
+    "/army-club/home": {},
+    "/army-club/welcome": {}
   }
 }

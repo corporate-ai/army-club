@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/army-club/',
   entryPoints: {
     '': () => import('./main.server.mjs')
   },
